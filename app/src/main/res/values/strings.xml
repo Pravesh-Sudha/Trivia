@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="questionText">Question : 48/ 89</string>
+    <string name="trueButtonText">True</string>
+    <string name="falseButtonText">False</string>
+    <string name="nextButtonText">Next</string>
+    <string name="correct">That is Correct</string>
+    <string name="incorrect">That is Incorrect</string>
+    <string name="yourScoeText">\"Your Score is : \"</string>
+    <string name="share">Share</string>
+</resources>
